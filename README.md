@@ -14,7 +14,7 @@
 
 Hi! I'm Lucas, a passionate **software developer** from Brazil focused on creating **secure, automated, and intelligent systems**.
 
-- 🧠 Experienced in **facial biometrics**, liveness detection, and face matching.
+- 🧠 Experienced in **facial biometrics**, liveness detection, face capture techniques and face matching.
 - 🔒 I build backend and mobile apps that talk to APIs, handle sensitive data, and automate workflows.
 - ☁️ I like working with tools like **Docker**, **Spring Boot**, **Python** and **Power BI**.
 - 🧰 I also enjoy tweaking legacy systems with **VBA**, and exploring cloud automation.
