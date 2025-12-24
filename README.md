@@ -72,20 +72,4 @@ I enjoy building systems end-to-end and connecting **technology with real busine
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img 
-    align="left" 
-    src="https://github-readme-stats.vercel.app/api?username=lukepv123&show_icons=true&theme=radical&count_private=true"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukepv123&layout=compact&theme=radical"
-  />
-</p>
-
-<br/><br/>
-
----
-
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=120"/>
