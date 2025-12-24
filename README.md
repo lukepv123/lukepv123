@@ -9,15 +9,17 @@
 </p>
 
 ---
-
 ### 👨‍💻 About Me
 
-Hi! I'm Lucas, a passionate **software developer** from Brazil focused on creating **secure, automated, and intelligent systems**.
+Hi! I'm Lucas, a software developer from Brazil focused on **practical backend and fullstack development**.
 
-- 🧠 Experienced in **facial biometrics**, liveness detection, face capture techniques and face matching.
-- 🔒 I build backend and mobile apps that talk to APIs, handle sensitive data, and automate workflows.
-- ☁️ I like working with tools like **Docker**, **Spring Boot**, **Python** and **Power BI**.
-- 🧰 I also enjoy tweaking legacy systems with **VBA**, and exploring cloud automation.
+- 💻 I work mainly with **Java and Spring Boot**, building REST APIs, handling business rules, authentication, and database integration.
+- 🌐 I also develop **simple front-end applications**, especially with **React**, to consume APIs and build functional user interfaces.
+- 📦 I use **Docker** to run databases and backend services locally, helping keep development environments organized and reproducible.
+- 🤖 I have hands-on experience with **facial biometrics**, including face capture, liveness detection, and API integration.
+- 📊 I’ve worked with **data analysis and dashboards** using **Power BI**, and automation scripts in **Python** and **VBA**.
+
+I enjoy building systems that actually work end-to-end — from the backend logic to the interface the user interacts with.
 
 ---
 
